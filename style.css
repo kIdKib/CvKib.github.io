@@ -1,0 +1,26 @@
+.texte {
+         text-align: left;
+         font-size: 15px;
+       }
+.image1 
+       {
+        margin-left: auto;
+        text-align: center;
+       }
+.h11 
+       {
+           text-align: center;
+           background-color: rgb(79, 79, 139);
+       }
+#ph11 
+       {
+            color: whitesmoke;
+       }
+.divpr 
+       {
+              display: flex;
+       }
+.p1 
+       {
+              margin-left: auto;
+       }
